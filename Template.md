@@ -4,11 +4,11 @@
     CoC Inheritance 2025
   </a>
   <br>
-  [Project Name]: [Tagline/Short Catchphrase]
+  ArchiTech: 
 </h1>
 
 <div align="center">
-By [Team Name]
+By CodeForCure
 </div>
 <hr>
 
