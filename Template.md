@@ -33,7 +33,7 @@ ArchiTEch is an intelligent floor plan generation app that creates optimized res
 
 ## 🔗 Links
 
-- [GitHub Repository]([Insert Link])
+- https://github.com/sejal-176/CodeForCure_ArchiTech.md.git
 - [Demo Video]([Insert Link])
 - [Project Screenshots/Drive]([Insert Link])
 - [Hosted Website]([Insert Link])
@@ -88,7 +88,7 @@ graph LR
 1. Clone the GitHub repo.
 
 ```bash
-git clone [Repository URL]
+git clone https://github.com/sejal-176/CodeForCure_ArchiTech.md.git
 
 ```
 
