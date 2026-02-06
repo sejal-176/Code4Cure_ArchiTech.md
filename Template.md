@@ -29,7 +29,7 @@ By [Team Name]
 
 ## 📝 Description
 
-[Brief 2-3 sentence overview of the project. Explain what the project does, the problem it solves, and the core technologies used.]
+ArchiTEch is an intelligent floor plan generation app that creates optimized residential layouts using minimal inputs such as plot size and configuration (1BHK, 2BHK, 3BHK). It applies Operations Research and constraint-based logic to efficiently utilize space and bridge the gap between user requirements and practical architectural design.
 
 ## 🔗 Links
 
@@ -112,7 +112,7 @@ npm start
 * **Aishwarya Jadhav**: [GitHub Profile Link]
 * **Rudrani Wadelkar**: [GitHub Profile Link]
 * **Shreya Kale**: [GitHub Profile Link]
-* **Sejal Bodakhe**: [GitHub Profile Link]
+* **Sejal Bodakhe**: sejal-176
 
 ## 👨‍🏫 Mentors
 
