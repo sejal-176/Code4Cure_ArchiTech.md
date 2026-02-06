@@ -109,7 +109,7 @@ npm start
 
 ## 👨‍💻 Team Members
 
-* **Aishwarya Jadhav**: [GitHub Profile Link]
+* **Aishwarya Jadhav**: AishVerse
 * **Rudrani Wadelkar**: [GitHub Profile Link]
 * **Shreya Kale**: [GitHub Profile Link]
 * **Sejal Bodakhe**: sejal-176
