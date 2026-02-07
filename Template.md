@@ -116,5 +116,5 @@ npm start
 
 ## 👨‍🏫 Mentors
 
-* **Ishaan Shaikh**: [GitHub/LinkedIn Link]
-* **Vedant Anasune**: [GitHub/LinkedIn Link]
+* **Ishaan Shaikh**: Ishaan0132
+* **Vedant Anasune**: VEDLESS
