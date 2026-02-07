@@ -51,9 +51,9 @@ graph LR
 
 ```
 
-### Front-end
+### Front-end:Typescript,Tailwindcss
 
-### Back-end
+### Back-end:Flask Python API
 
 ### Database / Blockchain / ML (Optional Sections)
 
