@@ -50,6 +50,7 @@ graph LR
     D --> E["Algorithm-2\nFurniture Placement Engine"]
     E --> F["SVG / Image Floor Plan Generator"]
     F --> G["Frontend Visualization"]
+```
 
 
 
