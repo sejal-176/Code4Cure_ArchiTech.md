@@ -51,18 +51,7 @@ graph LR
     E --> F["SVG / Image Floor Plan Generator"]
     F --> G["Frontend Visualization"]
 
-```
-```mermaid
-graph LR
-    A["Uploaded Floor Plan Image"] --> B["Frontend Detector UI"]
-    B --> C["Backend API\n(Python REST)"]
-    C --> D["Image Preprocessing Module"]
-    D --> E["Room & Object Detection"]
-    E --> F["Vastu Rule Engine"]
-    F --> G["Compliance Score Calculator"]
-    G --> H["Suggestions & Corrections"]
-    H --> I["Frontend Analysis Report"]
-```
+
 
 ### Front-end:Typescript,Tailwind CSS
 
@@ -93,16 +82,7 @@ graph LR
        2.4. Toilet/Bathroom (WC, sink)
   3. Fully rule-based and extensible.
    
-* **Vastu Compliance Detection & Scoring**:
-  1. Users can upload an existing floor plan image
-  2. System analyzes:
-       2.1. Room positions
-       2.2. Orientation
-       2.3. Violations of Vastu rules
-  3. Generates:
-       3.1. Vastu Compliance Score
-       3.2. Suggestions for improvement
-  4. Helps users understand what is wrong and how to fix it
+
 
 ### Partially Implemented Features / Work in Progress
 
