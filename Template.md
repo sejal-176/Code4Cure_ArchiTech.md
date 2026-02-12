@@ -4,7 +4,7 @@
     CoC Inheritance 2025
   </a>
   <br>
-  ArchiTech: “Vastu Principles, Powered by Logic.”
+  ArchiTech: “Vastu Principles, Powered by Constraints.”
 </h1>
 
 <div align="center">
@@ -54,10 +54,10 @@ graph LR
 
 
 
-### Front-end:Typescript,Tailwind CSS
-### Back-end:Python REST API 
+### Front-end: Typescript,Tailwind CSS
+### Back-end: Python REST API 
 ### OR-Tools
-### Database:Firebase(User-credentials),uploadstore(Image and report storage)
+### Database:Firebase(User-credentials),Uploadstore(Image and report storage)
 
 ## 📈 Progress
 
