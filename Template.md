@@ -55,10 +55,9 @@ graph LR
 
 
 ### Front-end:Typescript,Tailwind CSS
-
 ### Back-end:Python REST API 
-
-### Constraint-Based rule engine
+### OR-Tools
+### Database:Firebase(User-credentials),uploadstore(Image and report storage)
 
 ## 📈 Progress
 
@@ -74,28 +73,35 @@ graph LR
        3.4. North arrow & dimension annotations
   4. Output generated as SVG / image.
    
-* **Automatic Furniture Placement**:
+* **Room based Furniture placement**:
   1. Furniture placed relative to room geometry, not random
   2. Room-specific rule sets:
        2.1. Living Room (sofa, TV, table, etc.)
-       2.2. Bedroom (bed, wardrobe, dressing)
-       2.3. Kitchen (platform, sink, stove, fridge)
-       2.4. Toilet/Bathroom (WC, sink)
+       2.2. Bedroom (bed, study table(optional))
+       2.3. Kitchen (platform, sink, stove, dining table)
+       2.4. Toilet/Bathroom (sink,WC)
   3. Fully rule-based and extensible.
+
+  * **User accounts with saved designs and report generation.** :
+    1.Layout generation and saving layout history in user project section.
+    2.Overall analysis report is generated and saved in project section as per user choice.
+    3.Expoerting floor for usage.
+    
+ 
+
    
 
 
 ### Partially Implemented Features / Work in Progress
 
-* **Feature A**: [Description of current status and what remains].
-* **Feature B**: [Description of current status].
+* **South/East orientation entrance layout**:Currently, the layouts are generated with north- or east-facing entrances, which are considered auspicious directions. We are now working on supporting south- and west-facing entrances as well, since users may have plots with these orientations. The goal is to ensure that even these layouts remain fully Vastu-compliant despite the directional constraints.
+* ****: [Description of current status].
 
 ## 🔮 Future Scope
 
 * [3D visualization and walkthrough of generated floor plans].
 * [Enhanced vastu scoring with priority-based rule weighting].
 * [Support for duplex, villas, and commercial layouts].
-* [User accounts with saved designs and version tracking].
 * [Mobile-friendly interface for on-site usage].
 
 
