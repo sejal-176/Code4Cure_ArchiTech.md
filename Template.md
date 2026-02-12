@@ -85,7 +85,7 @@ graph LR
   * **User accounts with saved designs and report generation.** :
     1.Layout generation and saving layout history in user project section.
     2.Overall analysis report is generated and saved in project section as per user choice.
-    3.Expoerting floor for usage.
+    3.Exporting floor plan for usage.
     
  
 
@@ -95,14 +95,13 @@ graph LR
 ### Partially Implemented Features / Work in Progress
 
 * **South/East orientation entrance layout**:Currently, the layouts are generated with north- or east-facing entrances, which are considered auspicious directions. We are now working on supporting south- and west-facing entrances as well, since users may have plots with these orientations. The goal is to ensure that even these layouts remain fully Vastu-compliant despite the directional constraints.
-* ****: [Description of current status].
+* **   FEATURE B**: [Description of current status].
 
 ## 🔮 Future Scope
 
-* [3D visualization and walkthrough of generated floor plans].
-* [Enhanced vastu scoring with priority-based rule weighting].
-* [Support for duplex, villas, and commercial layouts].
-* [Mobile-friendly interface for on-site usage].
+* 3D visualization and walkthrough of generated floor plans.
+* Enhanced vastu scoring with priority-based rule weighting.
+* Support for duplex, villas, and commercial layouts.
 
 
 ## 💸 Applications
