@@ -35,15 +35,30 @@
 ArchiTech utilizes a multi-stage pipeline to transform user constraints into architectural blueprints:
 
 ```mermaid
-graph TD
-    A[User Input: Plot Area, Facing, BHK] --> B[React Frontend]
-    B --> C[Python REST API]
-    subgraph Optimization Engine
-    C --> D[Algorithm 1: Room Allocation]
-    D --> E[Algorithm 2: Furniture Placement]
-    end
-    E --> F[SVG/Image Generator]
-    F --> G[Interactive UI Visualization]
+flowchart TD
+
+    User --> Login
+    Login --> Frontend
+    Login --> Profile
+
+    Frontend --> Generator
+    Generator --> Input["Input: plot width, height, area, type"]
+    Input --> Backend
+    Backend --> Saved
+
+    Saved --> Frontend
+
+    Frontend --> DB
+    Backend --> DB
+
+    DB --> Feedback
+    DB --> ProjectFiles
+    DB --> Explore
+
+    Feedback --> DB
+    ProjectFiles --> DB
+    Explore --> DB
+```
 ✨ Key Functional Modules
 1. Generative Vastu Engine
 Directional Zoning: Automates placement of puja rooms, kitchens, and entrances based on Vastu Shastra rules (e.g., NE for Puja, SE for Kitchen).
