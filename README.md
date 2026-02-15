@@ -18,7 +18,7 @@
 
 ## 📌 Executive Summary
 
-**ArchiTech** is an intelligent generative design engine that automates the creation of Vastu-compliant residential floor plans. By treating architectural requirements as a **Constraint Satisfaction Problem (CSP)**, the application generates mathematically optimized 1BHK, 2BHK, and 3BHK layouts based on minimal inputs such as plot size and facing direction. It effectively bridges the gap between traditional architectural wisdom and practical, modern spatial design.
+**ArchiTech** is an intelligent generative design engine that automates the creation of Vastu-compliant residential floor plans. By treating architectural requirements with **simple constraint-based logic and OR-Tools**, the application generates mathematically optimized 1BHK, 2BHK, and 3BHK layouts based on minimal inputs such as plot size and facing direction. It effectively bridges the gap between traditional architectural wisdom and practical, modern spatial design.
 
 ## 🛠️ Core Technology Stack
 
