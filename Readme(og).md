@@ -34,8 +34,8 @@ ArchiTech is an intelligent floor-plan generation application that creates Vastu
 ## 🔗 Links
 
 - https://github.com/sejal-176/CodeForCure_ArchiTech.md.git
-- [Demo Video]([Insert Link])
-- [Project Screenshots/Drive]([Insert Link])
+- https://drive.google.com/drive/folders/1NplzB9zzQvVJa87qtkux9nfSFmBV2SxG?usp=drive_link
+- https://drive.google.com/drive/folders/1u_lMBVGUlAkpWiBT0u9HZsZfImFjOqoD?usp=drive_link
 - [Hosted Website]([Insert Link])
 
 ## 🤖 Tech-Stack
